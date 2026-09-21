@@ -7,12 +7,11 @@
 <h2 align="center">Bot & Web Developer | AWS Certified | Tech Explorer</h3>
 
 # 💫 About Me :
-![](https://img.shields.io/badge/Tech%20Enthusiastic%20%2F%20Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
 
 - 🔭 Building web applications, automation tools & bots
 - 🌱 Currently learning **MERN Stack & Cybersecurity**
 - ☁️ **AWS Certified Cloud Practitioner**
-- 💻 Interested in **Web Development, Automation & Cloud**
+- 💻 Interested in **Web Development, Automation**
 - 🤖 Love building useful bots and scripts
 - 🛠️ Exploring new technologies through real-world projects
 - 📚 Always learning. Always building.
@@ -24,14 +23,11 @@ Connect With Me:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
      </a>
-    <a href="mailto:anikaathish@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:uapathrabe@gmail.com" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="mailto:yashwanth6678@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:@gmail.com" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://twitter.com/Learn_earns123" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-     </a>
-    <a href="https://www.linkedin.com/in/athish-mohan-athish-30615428a/" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://www.linkedin.com/in/yashwanth-r-750b7918b/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 
 ### ✍️ Random Dev Quotes
