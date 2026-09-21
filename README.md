@@ -8,7 +8,7 @@
 
 # 💫 About Me :
 
-- 🔭 Building web applications, automation tools & bots
+- 🔭 3+ years of experience building web applications, automation tools, and bots.
 - 🌱 Currently learning **MERN Stack & Cybersecurity**
 - ☁️ **AWS Certified Cloud Practitioner**
 - 💻 Interested in **Web Development, Automation**
@@ -30,18 +30,25 @@ Connect With Me:
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 
-### ✍️ Random Dev Quotes
-
-![Random Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-  
 <div align="center">
 
-### ✍️ Random Dev Jokes
+### ✍️ Random Dev Quotes
 
-<p align="center">
- <a href="https://readme-jokes.vercel.app">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" style="width: 400px; height: 300px;">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quotes">
+
+</div>
+
+<div align="center">
+
+### 😂 Random Dev Jokes
+
+<a href="https://readme-jokes.vercel.app">
+  <img 
+    src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" 
+    alt="Random Dev Joke"
+    width="400"
+  />
 </a>
+
+</div>
   
